@@ -1,5 +1,6 @@
 body{
 font-family: verdana;
-background-color: lightblue;
 text-align: center;
+background-image: url("../html/img/costarica.jpg");
+background-repeat: no-repeat;
 }
