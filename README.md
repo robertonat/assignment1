@@ -1,3 +1,3 @@
 # assignment1
 CSCI 435 web dev assignment 1
-Github pages link : https://robertonat.github.io/assignment3/
+Github pages link : https://robertonat.github.io/assignment1/
